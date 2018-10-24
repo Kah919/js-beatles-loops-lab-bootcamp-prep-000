@@ -20,4 +20,5 @@ function johnLennonFacts() {
     empty.push(facts[counter])
     counter++;
   }
+  return empty;
 }
