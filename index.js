@@ -16,7 +16,7 @@ function johnLennonFacts() {
     "He hated the sound of his own voice"
   ];
   var counter = 0;
-  while(facts.length > 0) {
+  while(counter < facts.length) {
     empty.push(facts[counter])
     counter++;
   }
